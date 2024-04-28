@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Password Manager</string>
+    <string name="add_button_for_contact">Add Button for Contact</string>
+    <string name="ahsannjavaid">ahsannjavaid</string>
+    <string name="signup">Signup</string>
+    <string name="already_account">Already has an account?</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_account">Don\'t have account?</string>
+    <string name="password">password</string>
+    <string name="add_password">Add Password</string>
+    <string name="cancel">Cancel</string>
+    <string name="update">Update</string>
+</resources>
